@@ -1,0 +1,12 @@
+# Node modules
+node_modules/
+
+# Configuración de credenciales
+src/database/connection.js
+
+# Archivos de entorno
+.env
+
+# Archivos de sistema
+.DS_Store
+Thumbs.db
