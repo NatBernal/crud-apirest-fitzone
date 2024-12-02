@@ -10,3 +10,5 @@ src/database/connection.js
 # Archivos de sistema
 .DS_Store
 Thumbs.db
+
+package-lock.json
